@@ -1,0 +1,40 @@
+Model epoch 4
+
+<question>What does a Geiger Counter measure?<key>Radiation<distractor>Electrical<|endoftext|> 
+
+<question>What does a Geiger Counter measure?<key>Radiation<distractor>Heat<|endoftext|> 
+
+<question>What does a Geiger Counter measure?<key>Radiation<distractor>Electromagnetic energy<|endoftext|> 
+
+<question>A stable subatomic particle with a charge of negative electricity, found in all atoms and acting as the primary carrier of electricity in solids.<key>Electron<distractor>ion<|endoftext|> 
+
+<question>A stable subatomic particle with a charge of negative electricity, found in all atoms and acting as the primary carrier of electricity in solids.<key>Electron<distractor>hydrogen<|endoftext|> 
+
+<question>A stable subatomic particle with a charge of negative electricity, found in all atoms and acting as the primary carrier of electricity in solids.<key>Electron<distractor>hydrogen<|endoftext|> 
+
+<question>What is the most abundant gas in the atmosphere of the Earth?<key>Nitrogen<distractor>Minerals<|endoftext|> 
+
+<question>What is the most abundant gas in the atmosphere of the Earth?<key>Nitrogen<distractor>Potassium<|endoftext|> 
+
+<question>What is the most abundant gas in the atmosphere of the Earth?<key>Nitrogen<distractor>Hydrogen<|endoftext|> 
+
+Model epoch 3
+
+<question>What does a Geiger Counter measure?<key>Radiation<distractor>Temperature<|endoftext|> 
+
+<question>What does a Geiger Counter measure?<key>Radiation<distractor>Temperature<|endoftext|> 
+
+<question>What does a Geiger Counter measure?<key>Radiation<distractor>Energy<|endoftext|> 
+
+<question>A stable subatomic particle with a charge of negative electricity, found in all atoms and acting as the primary carrier of electricity in solids.<key>Electron<distractor>atomic particles<|endoftext|> 
+
+<question>A stable subatomic particle with a charge of negative electricity, found in all atoms and acting as the primary carrier of electricity in solids.<key>Electron<distractor>sulfur<|endoftext|> 
+
+<question>A stable subatomic particle with a charge of negative electricity, found in all atoms and acting as the primary carrier of electricity in solids.<key>Electron<distractor>molecule<|endoftext|> 
+
+<question>What is the most abundant gas in the atmosphere of the Earth?<key>Nitrogen<distractor>Plasma<|endoftext|> 
+
+<question>What is the most abundant gas in the atmosphere of the Earth?<key>Nitrogen<distractor>Argon<|endoftext|> 
+
+<question>What is the most abundant gas in the atmosphere of the Earth?<key>Nitrogen<distractor>Oxygen<|endoftext|> 
+
